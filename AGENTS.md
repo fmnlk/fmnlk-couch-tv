@@ -191,7 +191,7 @@ recommend C (A if they only want the home screen). Write the choice down; the re
   some of them, your own photos, or the Classic look?" Own photos: 1920x1080 JPEGs into
   `tv-home/web/backgrounds/`.
 - "How long should each scene stay?" (20 seconds is the default.)
-- "Which language for the home: English, Spanish, Mexican Spanish or Italian?" Leave
+- "Which language for the home: English, Spanish, Mexican Spanish, Italian or German?" Leave
   `home.language` out to follow the TV's own language.
 - "12 hour or 24 hour clock?" (Left out: 24 hour in Italian, 12 hour otherwise.)
 - Options A and B: "Do you want the TV to tell you when a new couch-tv version is out? It looks

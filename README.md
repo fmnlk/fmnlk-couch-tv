@@ -121,7 +121,7 @@ Any remote works: up and down move, right or OK opens a section, OK changes a ro
 scene, an app, a person or a quick button picks it up so up and down move it, and Back steps back
 and then closes. What you change shows when the list closes.
 
-- **Language:** English, Español, Español (México), Italiano. Until one is picked here (or in
+- **Language:** English, Español, Español (México), Italiano, Deutsch. Until one is picked here (or in
   `config.json`), the home speaks the TV's own language if it is one of these, else English.
 - **Location:** type a town or city with the TV's on-screen keyboard (or the phone remote's Type),
   pick it from the places found. It sets the weather's place and time zone. The place search is
