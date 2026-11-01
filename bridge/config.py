@@ -58,7 +58,7 @@ BRIDGE = {"host": "your-computer.local", "port": 5400, "fallback_hosts": [], **(
 CLIENT_NAME = CONFIG.get("client_name", "Couch TV bridge")
 
 # The languages the TV home and the phone remote speak (tv-home/web/i18n.js, remote/src/i18n.js).
-LANGUAGES = ("en", "es", "es-MX", "it")
+LANGUAGES = ("en", "es", "es-MX", "it", "de")
 # Where shows stream (JustWatch) and what the prompts call the country: "country" in config.json.
 # Without it: the country of the home's language, where it has one of its own (Italian: IT), else AU.
 _LANGUAGE_COUNTRY = {"it": "IT"}
